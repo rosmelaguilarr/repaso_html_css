@@ -29,7 +29,7 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://github.com/rosmeltd/repaso_html_css/blob/main/img/screenshot.png?raw=true)
 
 ### Built With
 
